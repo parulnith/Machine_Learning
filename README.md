@@ -2,4 +2,6 @@
 
 Machine learning examples with coded solutions
 
-Basic Statistics
+1.Basic Statistics
+2.Linear Regression
+3.Logidtic Regression
