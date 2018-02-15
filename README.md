@@ -7,3 +7,5 @@ Machine learning examples with material and examples.It comprises of the followi
 2.Linear Regression
 
 3.Logistic Regression
+
+4.Project: containing some practise examples
